@@ -1,0 +1,78 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/osteoporosis-fragility---primary.py
+inputModule3:
+  class: File
+  path: python/osteoporosis-postmenopausal---primary.py
+inputModule4:
+  class: File
+  path: python/osteoporosis-postoophorectomy---primary.py
+inputModule5:
+  class: File
+  path: python/osteoporosis---primary.py
+inputModule6:
+  class: File
+  path: python/osteoporosis-monitoring---primary.py
+inputModule7:
+  class: File
+  path: python/osteoporosis-result---primary.py
+inputModule8:
+  class: File
+  path: python/osteoporosis-classified---primary.py
+inputModule9:
+  class: File
+  path: python/osteoporosis-invitation---primary.py
+inputModule10:
+  class: File
+  path: python/osteoporosis-malabsorption---primary.py
+inputModule11:
+  class: File
+  path: python/cervical-osteoporosis---primary.py
+inputModule12:
+  class: File
+  path: python/idiopathic-osteoporosis---primary.py
+inputModule13:
+  class: File
+  path: python/osteoporosis-collapse---primary.py
+inputModule14:
+  class: File
+  path: python/thoracic-osteoporosis---primary.py
+inputModule15:
+  class: File
+  path: python/osteoporosis-trauma---primary.py
+inputModule16:
+  class: File
+  path: python/osteoporosis-administration---primary.py
+inputModule17:
+  class: File
+  path: python/osteoporosis-unspecified---primary.py
+inputModule18:
+  class: File
+  path: python/other-osteoporosis---primary.py
+inputModule19:
+  class: File
+  path: python/osteoporosis-druginduced---primary.py
+inputModule20:
+  class: File
+  path: python/osteoporosis-letter---primary.py
+inputModule21:
+  class: File
+  path: python/osteoporosis-lumbar---primary.py
+inputModule22:
+  class: File
+  path: python/osteoporotic-osteoporosis---primary.py
+inputModule23:
+  class: File
+  path: python/pathological-osteoporosis---primary.py
+inputModule24:
+  class: File
+  path: python/osteoporosis-vertebra---primary.py
+inputModule25:
+  class: File
+  path: python/osteoporosis-history---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
